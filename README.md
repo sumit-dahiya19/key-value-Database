@@ -11,7 +11,7 @@ operations , the data stored must be locally stored in the system .
 The database is stored locally in json format I have taken 2 databases, one is master database and the other is temporary database 
 temporary data will store all the operations for one single process .
 
-![]video.gif
+![](video.gif)
 
 
 The data store will support the following :
