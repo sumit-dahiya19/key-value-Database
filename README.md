@@ -11,7 +11,13 @@ operations , the data stored must be locally stored in the system .
 The database is stored locally in json format I have taken 2 databases, one is master database and the other is temporary database 
 temporary data will store all the operations for one single process .
 
+I have taken key as a string and pair as a number , we can also modify the code so that pair becomes a string,number,list,dict...or any data structure that is supported in the dictionary . I have also included timeout concept 
+
+Also ,I have implemented all the code in same notebook , if we want to make a library then we have to create 2 .ipynb notebook one with all the functions and another one will contain all the instances and calling of these functions
+
 ![](video.gif)
+
+
 
 
 The data store will support the following :
