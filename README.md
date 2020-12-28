@@ -36,9 +36,9 @@ Output: {'name': 'sumit',
 Also ,I have implemented all the code in same notebook , if we want to make a library then we have to create 2 .ipynb notebook one with all the functions and another one will contain all the instances and calling of these functions
 
 ```python
-For example : Make 2 .ipynb notebook , save it in one directory A.ipynb and B.ipynb
-If we want to use A.ipynb as library for B.ipynb
-we can import A file as Library in B using this simple one line code
+#For example : Make 2 .ipynb notebook , save it in one directory A.ipynb and B.ipynb
+#If we want to use A.ipynb as library for B.ipynb
+#we can import A file as Library in B using this simple one line code
 %run A.ipynb
 ```
 
