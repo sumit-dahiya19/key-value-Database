@@ -15,7 +15,7 @@ I have taken key as a string and pair as a number , we can also modify the code 
 
 ```python
 #Wanted to show that we can use what ever we want to store in key-value data store
-#In Code i have implemented string key and int value
+#In Code that i have implemented ,string key and int value is what i have used
 dict={}
 dict["name"]="sumit"                                #value is string 
 dict["age"]=16                                      #value is int
@@ -35,7 +35,7 @@ Output: {'name': 'sumit',
 
 Also ,I have implemented all the code in same notebook , if we want to make a library then we have to create 2 .ipynb notebook one with all the functions and another one will contain all the instances and calling of these functions
 
-```
+```python
 For example : Make 2 .ipynb notebook , save it in one directory A.ipynb and B.ipynb
 If we want to use A.ipynb as library for B.ipynb
 we can import A file as Library in B using this simple one line code
