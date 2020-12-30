@@ -45,6 +45,9 @@ Also ,I have implemented all the code in same notebook , if we want to make a li
 ![](video.gif)
 
 
-
+Reference :
+https://en.wikipedia.org/wiki/Key%E2%80%93value_database
+https://www.w3schools.com/js/js_json_objects.asp
+https://en.wikipedia.org/wiki/Thread_safety
 
 
